@@ -42,3 +42,8 @@ a {
   font-size: 20px;
   vertical-align: super;
 }
+
+.coded-by {
+  text-align: center;
+  font-size: smaller;
+}
