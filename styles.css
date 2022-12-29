@@ -1,0 +1,44 @@
+body {
+  font-family: "Arvo", serif;
+  color: #7c7c7c;
+}
+
+h1 {
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+ul {
+  padding-left: 0;
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.weather-app {
+  border: 1px solid gray;
+  padding: 15px;
+  margin: 25px auto;
+  border-radius: 15px;
+}
+
+.weather-icon {
+  vertical-align: baseline;
+}
+
+.temperature {
+  color: black;
+  font-size: 50px;
+  font-weight: bold;
+  vertical-align: baseline;
+}
+
+.metric {
+  font-size: 20px;
+  vertical-align: super;
+}
